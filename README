@@ -1,0 +1,6 @@
+This is the code for the Ghost workshop. 
+This workshop is part of the Applied CS with Android course
+Implemented in two ways:
+1)using binary search(Simple Dictionary)
+2)using trie(Fast Dictionary)
+Version 1.0
